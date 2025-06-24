@@ -1,0 +1,2 @@
+# yinkana
+Repo para yinkana
